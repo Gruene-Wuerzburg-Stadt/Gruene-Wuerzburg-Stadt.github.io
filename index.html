@@ -3,10 +3,17 @@
 <head>
     <meta charset="utf-8">
     <title>Redirecting...</title>
-    <meta http-equiv="refresh" content="0; URL=https://gruene-wuerzburg.de">
-    <link rel="canonical" href="https://gruene-wuerzburg.de">
+    <script>
+        // Define the URL variable
+        var redirectUrl = "https://gruene-wuerzburg.de";
+    </script>
 </head>
 <body>
-    <p>If you are not redirected, <a href="https://gruene-wuerzburg.de">click here</a>.</p>
+    <script>
+        // Use the URL variable in multiple places
+        document.write('<meta http-equiv="refresh" content="0; URL=' + redirectUrl + '">');
+        document.write('<link rel="canonical" href="' + redirectUrl + '">');
+        document.write('<p>If you are not redirected, <a href="' + redirectUrl + '">click here</a>.</p>');
+    </script>
 </body>
 </html>
