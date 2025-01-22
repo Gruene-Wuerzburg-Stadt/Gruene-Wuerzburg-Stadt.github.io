@@ -1,19 +1,13 @@
+---
+# front matter tells Jekyll to process Liquid
+---
 <!DOCTYPE html>
 <html>
-<head>
+  <head>
     <meta charset="utf-8">
-    <title>Redirecting...</title>
-    <script>
-        // Define the URL variable
-        var redirectUrl = "https://gruene-wuerzburg.de";
-    </script>
-</head>
-<body>
-    <script>
-        // Use the URL variable in multiple places
-        document.write('<meta http-equiv="refresh" content="0; URL=' + redirectUrl + '">');
-        document.write('<link rel="canonical" href="' + redirectUrl + '">');
-        document.write('<p>If you are not redirected, <a href="' + redirectUrl + '">click here</a>.</p>');
-    </script>
-</body>
+    <title>Home</title>
+  </head>
+  <body>
+    <h1>{{ "Hello World!" | downcase }}</h1>
+  </body>
 </html>
