@@ -4,16 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="29e0067d-f1c5-4ef4-b928-a460bd9d7d51" name="Changes" comment="jekyll init">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="29e0067d-f1c5-4ef4-b928-a460bd9d7d51" name="Changes" comment="Configuring to run on linux" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="5891e135-c4a8-48c4-bad0-886f90cb104a" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
@@ -61,7 +67,7 @@
       <updated>1737565289738</updated>
       <workItem from="1737565290935" duration="720000" />
       <workItem from="1737566175660" duration="4592000" />
-      <workItem from="1737575732863" duration="827000" />
+      <workItem from="1737575732863" duration="3241000" />
     </task>
     <task id="LOCAL-00001" summary="jekyll init">
       <option name="closed" value="true" />
@@ -71,14 +77,42 @@
       <option name="project" value="LOCAL" />
       <updated>1737576155329</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="jekyll init">
+      <option name="closed" value="true" />
+      <created>1737576715636</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1737576715636</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Configuring to run on linux">
+      <option name="closed" value="true" />
+      <created>1737579741874</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1737579741874</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="jekyll init" />
-    <option name="LAST_COMMIT_MESSAGE" value="jekyll init" />
+    <MESSAGE value="Configuring to run on linux" />
+    <option name="LAST_COMMIT_MESSAGE" value="Configuring to run on linux" />
   </component>
 </project>
