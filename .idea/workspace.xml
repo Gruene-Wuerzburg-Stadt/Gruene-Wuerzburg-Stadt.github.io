@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="29e0067d-f1c5-4ef4-b928-a460bd9d7d51" name="Changes" comment="Configuring to run on linux" />
+    <list default="true" id="29e0067d-f1c5-4ef4-b928-a460bd9d7d51" name="Changes" comment="Configuring to run on linux">
+      <change afterPath="$PROJECT_DIR$/.github/_data/navigation.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.github/_includes/navigation.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/workflows/jekyll.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/jekyll.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -67,7 +73,7 @@
       <updated>1737565289738</updated>
       <workItem from="1737565290935" duration="720000" />
       <workItem from="1737566175660" duration="4592000" />
-      <workItem from="1737575732863" duration="3241000" />
+      <workItem from="1737575732863" duration="4618000" />
     </task>
     <task id="LOCAL-00001" summary="jekyll init">
       <option name="closed" value="true" />
@@ -93,7 +99,23 @@
       <option name="project" value="LOCAL" />
       <updated>1737579741874</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Configuring to run on linux">
+      <option name="closed" value="true" />
+      <created>1737580014832</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1737580014832</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Configuring to run on linux">
+      <option name="closed" value="true" />
+      <created>1737580194108</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1737580194108</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
